@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'sinatra'
 gem 'capybara'
 gem 'rspec'
+gem 'sinatra'
+gem 'rack-test'
